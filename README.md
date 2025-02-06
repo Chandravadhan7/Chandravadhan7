@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project-K](https://github.com/beast-codez/Project-K.git)
 
-- 🌱 I’m currently learning **NodeJS,Java**
+- 🌱 I’m currently learning **Spring boot,Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chandravadhan7](https://github.com/Chandravadhan7)
 
