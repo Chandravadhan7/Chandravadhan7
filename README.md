@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandravadhan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer, primarily a backend developer</h3>
 
-- 🔭 I’m currently working on [Project-K](https://github.com/beast-codez/Project-K.git)
+- 🔭 I’m currently working on [friendsphere-backend](https://github.com/Chandravadhan7/friendsphere-backend)
 
 - 🌱 I’m currently learning **Spring boot,Java**
 
