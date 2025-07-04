@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandravadhan</h1>
+<h1 align="center">Hi 👋, I'm Chandra Vadhan</h1>
 <h3 align="center">A passionate full stack developer, primarily a backend developer</h3>
 
 - 🔭 I’m currently working on [friendsphere-backend](https://github.com/Chandravadhan7/friendsphere-backend)
